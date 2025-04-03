@@ -1,4 +1,4 @@
-👋 Hi, I’m @kha130802  
+👋 Hi, I’m Nguyen Truong Kha 
 - Data Analysis 
 - Python, SQL, Excel  
 - Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)  
