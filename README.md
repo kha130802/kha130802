@@ -16,5 +16,6 @@
 📫 How to Reach Me  
 - GitHub: [kha130802](https://github.com/kha130802)  
 - Email: khanguyen3005@gmail.com
+
 ⚡ Fun Fact  
 I enjoy exploring data patterns and trends, especially in gaming analytics! 🎮📊  
